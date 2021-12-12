@@ -44,7 +44,7 @@
 
 ## ❤ Views
 
-<a><img src="https://komarev.com/ghpvc/?username=rafsan2001-github-username&label=PROFILE+VIEWS"></a>
+<img src="https://komarev.com/ghpvc/?username=rafsan2001-github-username&label=PROFILE+VIEWS">
 
 
 
