@@ -16,7 +16,7 @@
 
 - 💬 Ask me about Myself :)
 
-- 📫 How to reach me:[Facebook](https://www.facebook.com/rafsanbari/)
+- 📫 How to reach me:[Rafsan Bari Shafin](https://www.facebook.com/rafsanbari/)
 
 - ⚡ :Depressing fact: I'm Still a student
 
