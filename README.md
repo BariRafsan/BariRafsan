@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on University's Project :')
 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Flask
 
 - 👯 I’m looking to collaborate on any project
 
-- 🤔 I’m looking for help with Python ,Django
+- 🤔 I’m looking for help with Python ,Django, Flask
 
 - 💬 Ask me about Myself :)
 
