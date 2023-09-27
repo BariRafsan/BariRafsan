@@ -6,19 +6,16 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on University's Project :')
+- 🔭 I’m currently working on Headless technologies limited  :')
 
-- 🌱 I’m currently learning Flask
 
-- 👯 I’m looking to collaborate on any project
-
-- 🤔 I’m looking for help with Python ,Django, Flask
+- 🤔 I’m looking for help with Python ,Django, Flask, Nlp
 
 - 💬 Ask me about Myself :)
 
 - 📫 How to reach me:[Rafsan Bari Shafin](https://www.facebook.com/rafsanbari/)
 
-- ⚡ :Depressing fact: I'm Still a student
+- ⚡ :Depressing fact: I'm Still a Intern
 
 
 ## 📊 My Github Stats
