@@ -15,7 +15,7 @@
 
 - 📫 How to reach me:[Rafsan Bari Shafin](https://www.facebook.com/rafsanbari/)
 
-- ⚡ :Depressing fact: I'm Still a Intern
+- ⚡ :Depressing fact: Still learning
 
 
 ## 📊 My Github Stats
