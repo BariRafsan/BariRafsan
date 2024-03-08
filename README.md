@@ -18,14 +18,6 @@
 - ⚡ :Depressing fact: Still learning
 
 
-## 📊 My Github Stats
-
-  <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=rafsan2001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafsan2001&layout=compact&text_color=daf7dc&bg_color=191919">
-
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 
