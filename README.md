@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Rafsan </h1>
-<h3 align="center">I'm a passionate Software Engineer from Bangladesh.</h3>
+<h3 align="center">I'm a passionate AI and NLP Engineer from Bangladesh.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Headless technologies limited  :')
+- 🔭 I’m currently working in Headless technologies limited  :')
 
 
 - 🤔 I’m looking for help with Python ,Django, Flask, Nlp
