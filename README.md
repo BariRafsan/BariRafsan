@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Rafsan </h1>
-<h3 align="center">I'm a passionate AI and NLP Engineer from Bangladesh.</h3>
+<h3 align="center">I'm a passionate AI and NLP Engineer from Bangladesh. </h3>
 
 
 ## 🙋‍♂️ About Me
@@ -33,7 +33,7 @@
 
 ## ❤ Views
 
-<img src="https://komarev.com/ghpvc/?username=rafsan2001-github-username&label=PROFILE+VIEWS">
+<img src="https://komarev.com/ghpvc/?username=barirafsan-github-username&label=PROFILE+VIEWS">
 
 
 
